@@ -16,6 +16,8 @@ massive collection of free fonts, sorted by category @ http://www.dafont.com/
 
 PLAYER CHARACTER
 
+push test
+
 ENEMIES AND PITFALLS
 
 red demon @ http://opengameart.org/content/icy-tower-demon-sprites
